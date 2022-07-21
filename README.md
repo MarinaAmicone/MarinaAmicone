@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React, NodeJS, HTML, CSS and JavaScript.
 - 💞️ My hobbies are cooking, listening to music, watching movies or series and do exercise.
 - 📫 How to reach me: 
-      - ✨ linkedin.com/in/marina-amicone-3386bb197
+      - ✨ https://www.linkedin.com/in/marina-amicone-3386bb197/
       - ✨ https://www.instagram.com/marinaamicone/
 
 <!---
